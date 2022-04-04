@@ -1,0 +1,6 @@
+[submodule "Telivery_FE"]
+	path = Telivery_FE
+	url = https://github.com/Techeer-TeamB/Telivery_FE.git
+[submodule "Telivery_BE"]
+	path = Telivery_BE
+	url = https://github.com/Techeer-TeamB/Telivery_BE.git
